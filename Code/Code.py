@@ -1,2 +1,2 @@
-
-print ("I am coding")
+code = "code"
+print ("I am ", code)
